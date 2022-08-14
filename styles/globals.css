@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.zain{
+    clip-path: polygon(0 0, 100% 0%, 78% 100%, 0% 100%);
+}
